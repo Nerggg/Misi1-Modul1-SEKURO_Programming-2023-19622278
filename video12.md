@@ -13,4 +13,4 @@
     >1. Untuk menambahkan file, ketik nama filenya dalam `.gitignore`
     >2. Untuk menambahkan folder, ketik `<nama folder>/` dalam `.gitignore`
 
-    >Contohnya adalah seperti [ini](17.png). Pada screenshot tersebut, saya menambahkan folder `old` dan file `beatrix.cpp`. Ketika saya menambahkan keduanya kedalam `.gitignore` dan melakukan add pada terminal, kedua file tersebut akan diabaikan oleh Git sehingga tidak ikut ditambahkan.
+    >Contohnya adalah seperti [ini](ss/17.png). Pada screenshot tersebut, saya menambahkan folder `old` dan file `beatrix.cpp`. Ketika saya menambahkan keduanya kedalam `.gitignore` dan melakukan add pada terminal, kedua file tersebut akan diabaikan oleh Git sehingga tidak ikut ditambahkan.
